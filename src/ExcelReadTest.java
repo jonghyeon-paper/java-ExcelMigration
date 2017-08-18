@@ -12,7 +12,7 @@ import support.ObjectProperties;
 
 public class ExcelReadTest {
 	
-	private final static String filePath = "C:\\development\\project-temp\\java-ExcelMigration\\temporary\\Book1.xlsx";
+	private static final String filePath = "C:\\development\\project-temp\\java-ExcelMigration\\temporary\\Book1.xlsx";
 	
 	public static void main(String[] args) throws IOException, EncryptedDocumentException, InvalidFormatException, InstantiationException, IllegalAccessException, NoSuchMethodException, SecurityException, IllegalArgumentException, InvocationTargetException, NoSuchFieldException {
 		

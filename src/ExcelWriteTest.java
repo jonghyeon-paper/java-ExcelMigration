@@ -11,7 +11,7 @@ import support.ObjectProperties;
 
 public class ExcelWriteTest {
 	
-	private final static String filePath = "C:\\development\\project-temp\\java-ExcelMigration\\temporary\\Book2.xlsx";
+	private static final String filePath = "C:\\development\\project-temp\\java-ExcelMigration\\temporary\\Book2.xlsx";
 
 	public static void main(String[] args) throws IOException {
 		List<ObjectProperties> propertiesList1 = new ArrayList<>();
